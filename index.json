@@ -1,0 +1,59 @@
+{
+ "updated": "2026-11-22T15:38:58Z",
+ "categories": [
+  {
+   "id": "all",
+   "label": "All",
+   "count": 200,
+   "url": "subs/all.b64"
+  },
+  {
+   "id": "singapore",
+   "label": "Singapore",
+   "count": 60,
+   "url": "subs/singapore.b64"
+  },
+  {
+   "id": "usa",
+   "label": "Usa",
+   "count": 60,
+   "url": "subs/usa.b64"
+  },
+  {
+   "id": "germany",
+   "label": "Germany",
+   "count": 60,
+   "url": "subs/germany.b64"
+  },
+  {
+   "id": "netherlands",
+   "label": "Netherlands",
+   "count": 60,
+   "url": "subs/netherlands.b64"
+  },
+  {
+   "id": "asia",
+   "label": "Asia",
+   "count": 60,
+   "url": "subs/asia.b64"
+  },
+  {
+   "id": "europe",
+   "label": "Europe",
+   "count": 60,
+   "url": "subs/europe.b64"
+  },
+  {
+   "id": "japan",
+   "label": "Japan",
+   "count": 50,
+   "url": "subs/japan.b64"
+  },
+  {
+   "id": "korea",
+   "label": "Korea",
+   "count": 30,
+   "url": "subs/korea.b64"
+  }
+ ]
+}
